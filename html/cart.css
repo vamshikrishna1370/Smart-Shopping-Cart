@@ -1,0 +1,30 @@
+body{
+  padding: 25px;
+}
+.title {
+	color: #5C6AC4;
+}
+
+h6{text-align:center;background-color:black;color:white}
+hr{border:dotted}
+
+table{
+    width:100%
+}
+table th
+{
+    font-size:70%;
+    text-align:center;
+    border:1px solid;
+}
+table td
+{
+    text-align:center;
+    position:relative
+}
+#payment{
+    text-align:right
+}
+#queries{
+    text-align:center;
+}
